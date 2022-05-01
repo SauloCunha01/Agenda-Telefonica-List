@@ -64,7 +64,7 @@ local.properties
 ##############################
 ## NetBeans
 ##############################
-nbproject/private/
+nbproject/private/private.properties
 build/
 nbbuild/
 dist/
@@ -73,7 +73,11 @@ nbactions.xml
 nb-configuration.xml
 build.xml
 manifest.mf
-nbproject/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+nbproject/genfiles.properties
+nbproject/project.properties
+nbproject/project.xml
 ##############################
 ## Visual Studio Code
 ##############################
